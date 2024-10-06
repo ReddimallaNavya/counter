@@ -1,0 +1,76 @@
+ *{
+ margin:0;
+ padding:0;
+ border-radius: border-box;
+}
+#one {
+    text-align: center;
+    margin: 180px;
+    margin-left: 500px;
+    background-color:rgb(38, 131, 131);
+    padding: 10px,;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width:400px;
+    height:190px;
+
+  }
+  
+  #demo1{
+    margin-top: 20px;
+  }
+  
+  
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1.5em;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  
+  #two {
+    background-color: #4CAF50;
+  }
+  #two:hover {
+    background-color: #45a049;
+  }
+  
+  
+  #three {
+    background-color: #FF5722;
+  }
+  #three:hover {
+    background-color: #19a5e6;
+  }
+  
+  
+  #four {
+    background-color: #e432db;
+  }
+  #four:hover {
+    background-color: #2ca5c4;
+  }
+  body{
+
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/08/08/08/spring-5016266_640.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+    
+    
+  } 
+
+
+
+
+  
+  
+  
+ 
+  
